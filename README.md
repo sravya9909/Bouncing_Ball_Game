@@ -36,3 +36,7 @@ To run this applet, include it in an HTML file with the following tag:
 ```
 
 This project demonstrates basic game loop principles, event handling, and graphics manipulation in Java applets.
+
+#### Note
+
+This is a legacy Java Applet project demonstrating basic animation and user interaction, but note that it uses deprecated technology and would need significant updates to run on modern systems.
